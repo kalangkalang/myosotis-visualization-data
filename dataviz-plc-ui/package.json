@@ -7,9 +7,12 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.5",
+    "@types/faker": "^5.5.9",
     "axios": "^0.24.0",
     "axios-retry": "^3.2.4",
-    "chart.js": "^3.7.0",
+    "chart.js": "^3.6.0",
+    "faker": "5.5.3",
+    "lodash": "^4.17.21",
     "next": "latest",
     "react": "^17.0.2",
     "react-chartjs-2": "^4.0.0",
